@@ -1,1 +1,3 @@
 sass --watch css/sass/index.scss css/index.css
+
+npm list -g --depth=0
